@@ -73,7 +73,7 @@ a{
 .landing{
     background-image: url("../imgs/landing.jpg");
     background-size: cover;
-    height: calc(100vh - 68px);
+    height: 100vh;
 }
 .landing .text {
     text-align: center;
